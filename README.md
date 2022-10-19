@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fflah
+- 👋 Hi, I’m Falah
 - 👀 I’m interested in backend developer
 - 🌱 I’m currently learning golang 
 - 📫 How to reach me zulfafalah@gmail.com
