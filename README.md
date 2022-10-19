@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fflah
 - 👀 I’m interested in backend developer
 - 🌱 I’m currently learning golang 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zulfafalah@gmail.com
 
 <!---
