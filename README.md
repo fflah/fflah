@@ -2,6 +2,7 @@
 - 👀 I’m interested in backend developer
 - 🌱 I’m currently learning golang 
 - 📫 How to reach me zulfafalah@gmail.com
+- :mag: Tiktok tiktok.com/@zulfafalah & Instagram instagram.com/zulfafalah_
 
 <!---
 fflah/fflah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
